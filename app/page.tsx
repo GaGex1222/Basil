@@ -42,7 +42,7 @@ export default function BaselSystemsCyber() {
           <div className="flex items-center gap-4">
             <div className="relative w-12 h-12 bg-blue-600 rounded-xl flex items-center justify-center shadow-[0_0_20px_rgba(37,99,235,0.4)] overflow-hidden">
               <img 
-                src="/logo.png" 
+                src="/image.png" 
                 alt="לוגו באסל" 
                 className="w-full h-full object-contain p-1 z-10" 
                 onError={(e) => (e.currentTarget.style.display = 'none')}
